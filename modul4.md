@@ -19,6 +19,7 @@ Modulen är utformad för att kunna användas av lärare själva som underlag f�
 Modulen utforskar möjligheter med generativ AI och Learning Analytics (LA) som hjälpmedel för att förbättra lärande och undervisningspraktik. Den **har som syfte** att inspirera utvecklingen av innovativa tillvägagångssätt som tar till vara de här teknologierna och digitaliseringens möjligheter för att skapa förbättrade och berikade lärandeupplevelser för studenter. Genom att balansera möjligheterna med en kritisk reflektion över utmaningar strävar modulen efter att ge lärare strategier för en genomtänkt och effektiv användning av generativ AI och Learning Analytics (LA) i utbildningen.
 
 För att skapa förutsättning för detta innehåller modulen två delar: en del som handlar om att beskriva och reflektera över samt utveckla användandet av generativ AI som hjälpmedel i undervisning och en andra del som ger underlag för att reflektera över och utveckla användningen av Learning Analytics (LA) i undervisningspraktiken. Både del 1 och del 2 innehåller två övningar vardera och en av uppgifterna i varje del är en praktisk övning. Det går att välja att endast göra en praktisk övning eftersom det finns spännande möjligheter med att kombinera användningen av generativ AI med Learning Analytics.
+Total tidsåtgång för både förberedelse och genomförande är tänkt att vara 7-7,5h????
 
 # Del 1 Hur kan vi förstå och använda generativ AI i undervisningspraktiken?
 
