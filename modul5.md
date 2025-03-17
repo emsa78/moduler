@@ -18,6 +18,7 @@ Utöver att ämnesspecifik AI kan behöva omfattas inom utbildningar finns det o
 Syftet med denna modul är därför att identifiera hur AI används inom det ämnesområde man representerar samt att se hur den egna lärarpraktiken påverkas. Även om det kan finnas beröringspunkter mellan ämnesområden eller att mer generell AI kan vara aktuell att diskutera, behöver mycket av detta arbete genomföras inom respektive ämnesområde. Med utgångspunkt i detta är det därför nödvändigt att dessa aktiviteter genomförs i homogena grupper som formas utifrån specifika ämnesområden.
 
 Modulen är uppdelad i två delar. Den första delen rör AI-tillämpningar inom det egna ämnesområdet och där ska deltagarna genom olika typer av aktiviteter i slutändan påbörja ett utvecklingsarbete. Den andra delen rör inverkan av AI på den egna lärarpraktiken och baseras i stor utsträckning på diskussioner och erfarenhetsutbyte.
+Total tidsåtgång för både förberedelse och genomförande är tänkt att vara 4 h?
 
 ## Del 1 – Identifiera AI-tillämpningar inom det egna ämnesområdet (2 h)
 
